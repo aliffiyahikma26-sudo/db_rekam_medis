@@ -1,0 +1,38 @@
+# Aplikasi Rekam Medis
+
+Aplikasi Rekam Medis merupakan aplikasi berbasis web yang dibuat menggunakan PHP dan MySQL untuk membantu pengelolaan data pasien, dokter, obat, dan rekam medis.
+
+## Fitur Aplikasi
+
+- Pengelolaan data pasien (Tambah, Tampil, Edit, Hapus).
+- Pengelolaan data dokter.
+- Pengelolaan data obat.
+- Pengelolaan data rekam medis.
+- Riwayat pemeriksaan pasien.
+- Dashboard informasi data.
+
+## Teknologi yang Digunakan
+
+- PHP
+- MySQL
+- HTML
+- CSS
+
+## Struktur Folder
+
+- `index.php` – Halaman dashboard.
+- `koneksi.php` – Koneksi database.
+- `pasien.php` – Pengelolaan data pasien.
+- `dokter.php` – Pengelolaan data dokter.
+- `obat.php` – Pengelolaan data obat.
+- `rekam_medis.php` – Pengelolaan rekam medis.
+- `riwayat.php` – Riwayat pemeriksaan.
+- `assets/style.css` – Tampilan aplikasi.
+
+## Database
+
+Nama database: `db_rekam_medis`
+
+## Pembuat
+
+Proyek Uji Kompetensi Pemrograman Web – XII RPL.
